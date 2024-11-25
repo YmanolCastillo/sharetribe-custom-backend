@@ -1,5 +1,25 @@
 Custom Backend using **Sharetribe API** - Ymanol Martinez
 
+## Instalación
+
+1. **Clona el repositorio**:
+
+   git clone https://github.com/YmanolCastillo/sharetribe-custom-backend.git
+
+    cd sharetribe-custom-backend
+
+    npm install o npm install
+3. **Configura las variables de entorno: Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables**:   
+
+   SHARETRIBE_CLIENT_ID=your-client-id
+
+   SHARETRIBE_CLIENT_SECRET=your-client-secret
+
+    PORT=4000
+4. **Inicia el servidor: Para correr el servidor en desarrollo:**  
+
+   npm run dev o yarn dev
+
 **Estructura del proyecto:**
 
 ```
