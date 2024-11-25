@@ -2,6 +2,7 @@ Custom Backend using **Sharetribe API** - Ymanol Martinez
 
 **Estructura del proyecto:**
 
+```
 sharetribe_backend/
 │
 ├── src/
@@ -35,4 +36,4 @@ sharetribe_backend/
 ├── tsconfig.json                 # Configuración de TypeScript
 ├── package.json                  # Configuración del proyecto
 ├── yarn.lock                     # Lockfile para Yarn
-└── README.md                     # Documentación del proyecto
+└── README.md                     # Documentación del proyecto```
